@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jojoCan94 and I’m a curious guy for everything so looking for new discoveries.
+- 👋 Hi, I’m Jonathan and I’m a curious guy for everything so looking for new discoveries.
 - 👀 I’m interested in programming , life , sport , travel , nature and animals.
 - 🌱 I’m currently learning to develop applications with the aim of becoming a fullstack developer.
 - 💞️ I’m looking to collaborate on a project to help combat man-made climate change and protect animals.
